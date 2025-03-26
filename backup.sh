@@ -1,0 +1,3 @@
+@echo off
+echo Creating backup...
+xcopy /E /I C:\Users\vlads\Documents D:\Backup\%DATE%
